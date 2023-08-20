@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0VQ52l3DVv3/xAarQ7O6ZtnSaWec0tHIRerkMO557DI=",
+  "Source": "Microservices_Shopping_Store",
+  "BasePath": "_content/Microservices_Shopping_Store",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

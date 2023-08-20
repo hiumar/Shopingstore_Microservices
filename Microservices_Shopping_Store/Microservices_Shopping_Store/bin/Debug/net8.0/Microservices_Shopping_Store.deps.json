@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Microservices_Shopping_Store/1.0.0": {
+        "runtime": {
+          "Microservices_Shopping_Store.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microservices_Shopping_Store/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
