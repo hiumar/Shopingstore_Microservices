@@ -18,6 +18,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Personal Learnings\ShoppingStore uisng .NET8\Shopingstore_Microservices\Microservices_Shopping_Store\Mango.Web
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Personal Learnings/ShoppingStore uisng .NET8/Shopingstore_Microservices/Microservices_Shopping_Store/Mango.Web/Views/Coupon/CouponCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cG9uXENvdXBvbkNyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Personal Learnings/ShoppingStore uisng .NET8/Shopingstore_Microservices/Microservices_Shopping_Store/Mango.Web/Views/Coupon/CouponDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cG9uXENvdXBvbkRlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Personal Learnings/ShoppingStore uisng .NET8/Shopingstore_Microservices/Microservices_Shopping_Store/Mango.Web/Views/Coupon/CouponIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cG9uXENvdXBvbkluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Personal Learnings/ShoppingStore uisng .NET8/Shopingstore_Microservices/Microservices_Shopping_Store/Mango.Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -28,6 +40,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Personal Learnings/ShoppingStore uisng .NET8/Shopingstore_Microservices/Microservices_Shopping_Store/Mango.Web/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Personal Learnings/ShoppingStore uisng .NET8/Shopingstore_Microservices/Microservices_Shopping_Store/Mango.Web/Views/Shared/_Notifications.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb25zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Personal Learnings/ShoppingStore uisng .NET8/Shopingstore_Microservices/Microservices_Shopping_Store/Mango.Web/Views/Shared/_ValidationScriptsPartial.cshtml]

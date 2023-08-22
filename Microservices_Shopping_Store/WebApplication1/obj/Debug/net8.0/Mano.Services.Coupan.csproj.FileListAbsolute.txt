@@ -287,3 +287,4 @@ D:\Personal Learnings\ShoppingStore uisng .NET8\Shopingstore_Microservices\Micro
 D:\Personal Learnings\ShoppingStore uisng .NET8\Shopingstore_Microservices\Microservices_Shopping_Store\WebApplication1\obj\Debug\net8.0\Mano.Services.Coupan.pdb
 D:\Personal Learnings\ShoppingStore uisng .NET8\Shopingstore_Microservices\Microservices_Shopping_Store\WebApplication1\obj\Debug\net8.0\Mano.Services.Coupan.genruntimeconfig.cache
 D:\Personal Learnings\ShoppingStore uisng .NET8\Shopingstore_Microservices\Microservices_Shopping_Store\WebApplication1\obj\Debug\net8.0\ref\Mano.Services.Coupan.dll
+D:\Personal Learnings\ShoppingStore uisng .NET8\Shopingstore_Microservices\Microservices_Shopping_Store\WebApplication1\obj\Debug\net8.0\Mano.Services.Coupan.sourcelink.json

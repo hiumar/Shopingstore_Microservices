@@ -7,8 +7,9 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Mano.Services.Coupan.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/coupon")]
     [ApiController]
+
     public class CouponController : ControllerBase
     {
         private readonly AppDbContext _appDbContext;
@@ -143,7 +144,7 @@ namespace Mano.Services.Coupan.Controllers
 
 
         [HttpDelete]
-
+        [Route("{id:int}")]
 
         public ResponseDTO Delete(int id)
         {

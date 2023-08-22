@@ -1,10 +1,10 @@
 ﻿using Mango.Web.Models;
-using Mano.Services.Coupan.Model.DTO;
+using ResponseDTO = Mango.Web.Models.ResponseDTO;
 
 namespace Mango.Web.Service.IService
 {
     public interface IBaseService
     {
-       Task<ResponsetDTO?> SendResponseAsyn(RequestDTO requestDTO);
+       Task<ResponseDTO?> SendResponseAsyn(RequestDTO requestDTO, bool withBearer = true);
     }
 }

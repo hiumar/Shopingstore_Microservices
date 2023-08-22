@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mano.Services.Coupan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2468355790dd595a32be0bb7e20b95395e7e8dd7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mano.Services.Coupan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mano.Services.Coupan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

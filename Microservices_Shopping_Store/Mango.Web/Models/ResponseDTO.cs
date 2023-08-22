@@ -1,9 +1,9 @@
-﻿namespace Mano.Services.Coupan.Model.DTO
+﻿namespace Mango.Web.Models
 {
-    public class ResponsetDTO
+    public class ResponseDTO
     {
-        public Object Result { get; set; }
+        public object? Result { get; set; }
         public bool IsSuccess { get; set; } = true;
-        public string Message { get; set; }
+        public string Message { get; set; } = "";
     }
 }

@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Microservices_Shopping_Store"
+    "\\Microservices_Shopping_Store",
+    "\\Microservices_Shopping_Store\\Mango.Services.Coupon",
+    "\\Microservices_Shopping_Store\\Mango.Web\\Service",
+    "\\Microservices_Shopping_Store\\Microservices_Shopping_Store"
   ],
-  "SelectedNode": "\\Microservices_Shopping_Store\\Microservices_Shopping_Store.sln",
   "PreviewInSolutionExplorer": false
 }
