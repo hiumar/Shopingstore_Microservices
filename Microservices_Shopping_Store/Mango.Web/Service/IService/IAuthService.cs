@@ -1,5 +1,4 @@
 ﻿using Mango.Web.Models;
-using ResponseDTO = Mango.Web.Models.ResponseDTO;
 
 namespace Mango.Web.Service.IService
 {

@@ -1,9 +1,9 @@
-﻿namespace Mango.Web.Models
+﻿namespace Mango.Web
 {
     public class ResponseDTO
     {
-        public object? Result { get; set; }
+        public Object Result { get; set; }
         public bool IsSuccess { get; set; } = true;
-        public string Message { get; set; } = "";
+        public string Message { get; set; }
     }
 }

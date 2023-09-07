@@ -1,7 +1,6 @@
 ﻿using Mango.Web.Models;
 using Mango.Web.Service.IService;
 using Mango.Web.Utility;
-using ResponseDTO = Mango.Web.Models.ResponseDTO;
 
 namespace Mango.Web.Service
 {
@@ -19,7 +18,7 @@ namespace Mango.Web.Service
             {
                 ApiType = SD.ApiType.POST,
                 Data = registrationRequestDto,
-                Url = SD.AuthAPIBase + "/api/auth/AssignRole"
+                URL = SD.AuthAPIBase + "/api/auth/AssignRole"
             }, withBearer: false);
         }
 
@@ -29,7 +28,7 @@ namespace Mango.Web.Service
             {
                 ApiType = SD.ApiType.POST,
                 Data = loginRequestDto,
-                Url = SD.AuthAPIBase + "/api/auth/login"
+                URL = SD.AuthAPIBase + "/api/auth/login"
             }, withBearer: false);
         }
 
@@ -39,7 +38,7 @@ namespace Mango.Web.Service
             {
                 ApiType = SD.ApiType.POST,
                 Data = registrationRequestDto,
-                Url = SD.AuthAPIBase + "/api/auth/register"
+                URL = SD.AuthAPIBase + "/api/auth/register"
             }, withBearer: false);
         }
     }

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAaZMPPHX+0UeHU5/BxLgTKAAAAAACAAAAAAAQZgAAAAEAACAAAADgOFiStn3tJ3i8iKoQiaCHRZDV8FLCY9+DvaOwCOv4rQAAAAAOgAAAAAIAACAAAACyQjDfiGEaMbrYJr0HCdqkXkWPyCwCpbgbUpwraAPmgoAAAAC9ZM1xw13BkSVXH8jV7WjVu4/5TnmZMj1uetLu7yLbVLBu9iBkqqSwQkgC+0MVVNN9FBCkOoKWlBABolz7RHXSXHqEtCcPmy4WSg/puvAf1Fipop5A2lcucpEazoaHWKIWHru1gwdzLEwrOHDRCQMEIJhpM8e8qe7ZpiIOt7NlG0AAAAAf+TKAYMAmNOCB/9KDTI2nwmXSDYc1uAwhe8bn8PqymRzuYysMWuIrRi9KYkPeqQItUJD/AKrcwxB22VuH2U1r</EncryptedPassword>
+    <History>True|2023-09-05T01:47:27.9260851Z;True|2023-09-04T20:16:04.7182827+05:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=UMARFARAZ\UMAR_SQLSERVER%3bDatabase=Mango_Auth%3bTrusted_Connection=True%3bTrustServerCertificate=True%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

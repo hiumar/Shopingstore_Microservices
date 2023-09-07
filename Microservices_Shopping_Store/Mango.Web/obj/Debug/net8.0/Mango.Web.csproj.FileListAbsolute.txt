@@ -66,4 +66,9 @@ D:\Personal Learnings\ShoppingStore uisng .NET8\Shopingstore_Microservices\Micro
 D:\Personal Learnings\ShoppingStore uisng .NET8\Shopingstore_Microservices\Microservices_Shopping_Store\Mango.Web\obj\Debug\net8.0\Mango.Web.genruntimeconfig.cache
 D:\Personal Learnings\ShoppingStore uisng .NET8\Shopingstore_Microservices\Microservices_Shopping_Store\Mango.Web\obj\Debug\net8.0\ref\Mango.Web.dll
 D:\Personal Learnings\ShoppingStore uisng .NET8\Shopingstore_Microservices\Microservices_Shopping_Store\Mango.Web\obj\Debug\net8.0\Mango.Web.sourcelink.json
-D:\Personal Learnings\ShoppingStore uisng .NET8\Shopingstore_Microservices\Microservices_Shopping_Store\Mango.Web\obj\Debug\net8.0\Mango.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\Personal Learnings\ShoppingStore uisng .NET8\Shopingstore_Microservices\Microservices_Shopping_Store\Mango.Web\bin\Debug\net8.0\IdentityModel.dll
+D:\Personal Learnings\ShoppingStore uisng .NET8\Shopingstore_Microservices\Microservices_Shopping_Store\Mango.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Personal Learnings\ShoppingStore uisng .NET8\Shopingstore_Microservices\Microservices_Shopping_Store\Mango.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Personal Learnings\ShoppingStore uisng .NET8\Shopingstore_Microservices\Microservices_Shopping_Store\Mango.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Personal Learnings\ShoppingStore uisng .NET8\Shopingstore_Microservices\Microservices_Shopping_Store\Mango.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Personal Learnings\ShoppingStore uisng .NET8\Shopingstore_Microservices\Microservices_Shopping_Store\Mango.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll

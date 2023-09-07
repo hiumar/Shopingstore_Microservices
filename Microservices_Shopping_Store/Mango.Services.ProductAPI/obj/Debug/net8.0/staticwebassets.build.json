@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "ByO7iPNVUbaEZMB6pkje6l3DiEICGD+DPoLQpTL3rxg=",
+  "Source": "Mango.Services.ProductAPI",
+  "BasePath": "_content/Mango.Services.ProductAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Mango.Services.ProductAPI\\wwwroot",
+      "Source": "Mango.Services.ProductAPI",
+      "ContentRoot": "D:\\Personal Learnings\\ShoppingStore uisng .NET8\\Shopingstore_Microservices\\Microservices_Shopping_Store\\Mango.Services.ProductAPI\\wwwroot\\",
+      "BasePath": "_content/Mango.Services.ProductAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

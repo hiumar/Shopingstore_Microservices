@@ -18,6 +18,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Personal Learnings\ShoppingStore uisng .NET8\Shopingstore_Microservices\Microservices_Shopping_Store\Mango.Web
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Personal Learnings/ShoppingStore uisng .NET8/Shopingstore_Microservices/Microservices_Shopping_Store/Mango.Web/Views/Auth/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Personal Learnings/ShoppingStore uisng .NET8/Shopingstore_Microservices/Microservices_Shopping_Store/Mango.Web/Views/Auth/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Personal Learnings/ShoppingStore uisng .NET8/Shopingstore_Microservices/Microservices_Shopping_Store/Mango.Web/Views/Cart/CartIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDYXJ0SW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Personal Learnings/ShoppingStore uisng .NET8/Shopingstore_Microservices/Microservices_Shopping_Store/Mango.Web/Views/Cart/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDaGVja291dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Personal Learnings/ShoppingStore uisng .NET8/Shopingstore_Microservices/Microservices_Shopping_Store/Mango.Web/Views/Cart/Confirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDb25maXJtYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Personal Learnings/ShoppingStore uisng .NET8/Shopingstore_Microservices/Microservices_Shopping_Store/Mango.Web/Views/Coupon/CouponCreate.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cG9uXENvdXBvbkNyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -38,8 +58,40 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Personal Learnings/ShoppingStore uisng .NET8/Shopingstore_Microservices/Microservices_Shopping_Store/Mango.Web/Views/Home/ProductDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9kdWN0RGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Personal Learnings/ShoppingStore uisng .NET8/Shopingstore_Microservices/Microservices_Shopping_Store/Mango.Web/Views/Order/OrderDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcT3JkZXJEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Personal Learnings/ShoppingStore uisng .NET8/Shopingstore_Microservices/Microservices_Shopping_Store/Mango.Web/Views/Order/OrderIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcT3JkZXJJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Personal Learnings/ShoppingStore uisng .NET8/Shopingstore_Microservices/Microservices_Shopping_Store/Mango.Web/Views/Product/ProductCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0Q3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Personal Learnings/ShoppingStore uisng .NET8/Shopingstore_Microservices/Microservices_Shopping_Store/Mango.Web/Views/Product/ProductDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0RGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Personal Learnings/ShoppingStore uisng .NET8/Shopingstore_Microservices/Microservices_Shopping_Store/Mango.Web/Views/Product/ProductEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0RWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Personal Learnings/ShoppingStore uisng .NET8/Shopingstore_Microservices/Microservices_Shopping_Store/Mango.Web/Views/Product/ProductIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0SW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Personal Learnings/ShoppingStore uisng .NET8/Shopingstore_Microservices/Microservices_Shopping_Store/Mango.Web/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Personal Learnings/ShoppingStore uisng .NET8/Shopingstore_Microservices/Microservices_Shopping_Store/Mango.Web/Views/Shared/_Notifications.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb25zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Personal Learnings/ShoppingStore uisng .NET8/Shopingstore_Microservices/Microservices_Shopping_Store/Mango.Web/Views/Shared/_ValidationScriptsPartial.cshtml]

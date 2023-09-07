@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Personal Learnings\\ShoppingStore uisng .NET8\\Shopingstore_Microservices\\Microservices_Shopping_Store\\Mango.Services.ProductAPI\\wwwroot\\ProductImages\\1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\1.jpg"
+    },
+    {
+      "Id": "D:\\Personal Learnings\\ShoppingStore uisng .NET8\\Shopingstore_Microservices\\Microservices_Shopping_Store\\Mango.Services.ProductAPI\\wwwroot\\ProductImages\\16.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\16.jpg"
+    },
+    {
+      "Id": "D:\\Personal Learnings\\ShoppingStore uisng .NET8\\Shopingstore_Microservices\\Microservices_Shopping_Store\\Mango.Services.ProductAPI\\wwwroot\\ProductImages\\17.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\17.jpg"
+    },
+    {
+      "Id": "D:\\Personal Learnings\\ShoppingStore uisng .NET8\\Shopingstore_Microservices\\Microservices_Shopping_Store\\Mango.Services.ProductAPI\\wwwroot\\ProductImages\\18.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\18.jpg"
+    },
+    {
+      "Id": "D:\\Personal Learnings\\ShoppingStore uisng .NET8\\Shopingstore_Microservices\\Microservices_Shopping_Store\\Mango.Services.ProductAPI\\wwwroot\\ProductImages\\19.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\19.jpg"
+    },
+    {
+      "Id": "D:\\Personal Learnings\\ShoppingStore uisng .NET8\\Shopingstore_Microservices\\Microservices_Shopping_Store\\Mango.Services.ProductAPI\\wwwroot\\ProductImages\\2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\2.jpg"
+    },
+    {
+      "Id": "D:\\Personal Learnings\\ShoppingStore uisng .NET8\\Shopingstore_Microservices\\Microservices_Shopping_Store\\Mango.Services.ProductAPI\\wwwroot\\ProductImages\\20.jpeg",
+      "PackagePath": "staticwebassets\\ProductImages\\20.jpeg"
+    },
+    {
+      "Id": "D:\\Personal Learnings\\ShoppingStore uisng .NET8\\Shopingstore_Microservices\\Microservices_Shopping_Store\\Mango.Services.ProductAPI\\wwwroot\\ProductImages\\21.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\21.jpg"
+    },
+    {
+      "Id": "D:\\Personal Learnings\\ShoppingStore uisng .NET8\\Shopingstore_Microservices\\Microservices_Shopping_Store\\Mango.Services.ProductAPI\\wwwroot\\ProductImages\\22.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\22.jpg"
+    },
+    {
+      "Id": "D:\\Personal Learnings\\ShoppingStore uisng .NET8\\Shopingstore_Microservices\\Microservices_Shopping_Store\\Mango.Services.ProductAPI\\wwwroot\\ProductImages\\23.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\23.jpg"
+    },
+    {
+      "Id": "D:\\Personal Learnings\\ShoppingStore uisng .NET8\\Shopingstore_Microservices\\Microservices_Shopping_Store\\Mango.Services.ProductAPI\\wwwroot\\ProductImages\\24.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\24.jpg"
+    },
+    {
+      "Id": "D:\\Personal Learnings\\ShoppingStore uisng .NET8\\Shopingstore_Microservices\\Microservices_Shopping_Store\\Mango.Services.ProductAPI\\wwwroot\\ProductImages\\3.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\3.jpg"
+    },
+    {
+      "Id": "D:\\Personal Learnings\\ShoppingStore uisng .NET8\\Shopingstore_Microservices\\Microservices_Shopping_Store\\Mango.Services.ProductAPI\\wwwroot\\ProductImages\\4.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\4.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Mango.Services.ProductAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Mango.Services.ProductAPI.props",
+      "PackagePath": "build\\Mango.Services.ProductAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Mango.Services.ProductAPI.props",
+      "PackagePath": "buildMultiTargeting\\Mango.Services.ProductAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Mango.Services.ProductAPI.props",
+      "PackagePath": "buildTransitive\\Mango.Services.ProductAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

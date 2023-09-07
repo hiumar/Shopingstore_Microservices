@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="MangoServicesOrderAPIService" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\Personal\ Learnings\\ShoppingStore\ uisng\ \.NET8\\Shopingstore_Microservices\\Microservices_Shopping_Store\\Mango\.Services\.OrderAPI\\obj\\Release\\net8\.0\\win-x86\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
